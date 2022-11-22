@@ -141,5 +141,5 @@ def main():
 
     print(f"You left with Rs{balance}")
 
-
-main()
+if __name__ == "__main__":
+    main()
